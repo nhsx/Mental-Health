@@ -28,7 +28,7 @@ On the day;
 - we started immediately after the retrospective. Sadly time constraints on team members made us have to squish the session in half. After some cutting and dicing of tasks we got on our way.
 - first we clarified what the purpose of the day was and we were going to score each of the 15 proposals based on value and urgency (with accompanying definitions of what value and urgency were defined as)
 - to avoid bias and groupthink we did this silently, with people reading through and making notes and then assigning a score
-- after everyone was done we re-grouped over coffee and earl grey and went through each one at a time saying what score was given and a justification for that score. 
+- after everyone was done we re-grouped over coffee and earl grey and went through each one saying what score was given and a justification for that score. 
 - after listening to one another, the squad (while I facilitated and took notes) got to amend their scores after hearing each others opinion.
 - by the end we had 3 high scoring ideas that had separated themselves from the pack. All 3 representing a different theme.
 
