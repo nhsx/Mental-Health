@@ -45,6 +45,7 @@ I haven’t worked out yet what to do with this yet but might be interesting to 
 ## Capability
 Last week we said…
 > One of the other big aspirations of having NHSX people entwined with NHSE colleagues is to expose alternative ways of working and build capability. 
+
 To this end we had more chats this week about what sort of things we think would be valuable to colleagues to learn about. We’ve got an initial steer that some introductions into agile and discoveries make sense for now but this is just a first step. We’ll be mixing practical experience and immersion with more standard opportunities to learn.
 
 ## Oxford
