@@ -51,7 +51,7 @@ To this end we had more chats this week about what sort of things we think would
 ## Oxford
 A trip to rainy [Oxford University](https://digitalethicslab.oii.ox.ac.uk/) happened with discussions about digital, ethics and well-being.
 
-I heard about a new term I’d not heard before… “context collapse”. Was explained as the phenomenon when your online persona comes in conflict with your in person persona. So you might present yourself as a certain type of person online but then when people meet you in real life and you are different their version of you the bond falls apart. I know so little about this but sounds fascinating.
+I heard about a new term I’d not heard before… “context collapse”. Was explained as the phenomenon when your online persona comes in conflict with your in person persona. So you might present yourself as a certain type of person online but then when people meet you in real life and you are a different version of you then expected it causes the bond to fall apart. I know so little about this but sounds fascinating.
 
 ## Find out more
 If you want to stay informed about wider NHSX work then [check out @NHSX on Twitter](https://twitter.com/nhsx?lang=en).
