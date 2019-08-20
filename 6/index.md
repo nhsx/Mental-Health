@@ -91,6 +91,26 @@ In tandem with reading and learning we have setup a weekly time to share all the
 
 A lot of value is not just sharing but also in the conversation around the topics. This is now in the calendar for the rest of the discovery.
 
+## Discovery is done objectives
+The team has collectively set some goals/acceptance criteria that we want to have checked off before officially saying the discovery is over. Here is a list that we came up during the first few days of the discovery:
+- We understand the types of users most affected by waiting times
+- We understand the problems that arise due to long waiting times
+- We understand why CYP do not attend/not brought to appointments
+- We have evidence that backs up our recommendations
+- We have all learned something new
+- We understand what widely used digital interventions are available in the marketplace
+- We understand the major technology innovations emerging for mental health 
+- We understand the best practice for designing digital mental health services/tools/products 
+- We have a good idea of what has been tried/tested before in tackling waiting times/preparing for care and do not attend rates
+- We have reviewed a sample of artefacts that people encounter (e.g. appointment booking letters or assessment forms)
+- We have a good understanding of the research out there on the effect of waiting times and DNA rates
+- We have used a range of research methods to gather insights about users in a holistic way- we have different perspectives/angles
+- We have actively involved external groups and actively made sure they understand about our work
+- We understand why there are variations in waiting times between services in different areas
+- We understand what parents do to support their children while they are preparing for mental health services
+- We understand more about constraints that might affect delivery
+- We have thought about the consequences of our recommendations
+
 ## Find out more
 If you want to stay informed about wider NHSX work then [check out @NHSX on Twitter](https://twitter.com/nhsx?lang=en).
 
