@@ -92,7 +92,7 @@ In tandem with reading and learning we have setup a weekly time to share all the
 A lot of value is not just sharing but also in the conversation around the topics. This is now in the calendar for the rest of the discovery.
 
 ## Discovery is done objectives
-The team has collectively set some goals/acceptance criteria that we want to have checked off before officially saying the discovery is over. Here is a list that we came up during the first few days of the discovery:
+The team has collectively set some [goals/acceptance criteria](http://www.myddelton.co.uk/blog/setting-up-a-discovery) that we want to have checked off before officially saying the discovery is over. Here is a list that we came up during the first few days of being a team. Discovery is done when...
 - We understand the types of users most affected by waiting times
 - We understand the problems that arise due to long waiting times
 - We understand why CYP do not attend/not brought to appointments
