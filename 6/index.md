@@ -72,7 +72,9 @@ In Round 1 we’ll be doing a series of site visits to CAMHS locations and inter
  
 ## Award winning
 Congrats to Hugh who won an award this week.
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Congrats to the <a href="https://twitter.com/hashtag/Barbers4Health?src=hash&amp;ref_src=twsrc%5Etfw">#Barbers4Health</a> team with Jacqueline Sin, Mariana Pinto da Costa, Hugh Hathaway and Jan Smeddinck who won the best project <a href="https://twitter.com/hashtag/DIMH2019?src=hash&amp;ref_src=twsrc%5Etfw">#DIMH2019</a> focusing on the mental health needs in LMIC. Well done to all teams! <a href="https://t.co/6lRUZgGsaH">pic.twitter.com/6lRUZgGsaH</a></p>&mdash; Social Psychiatry (@QMULSocialPsych) <a href="https://twitter.com/QMULSocialPsych/status/1161704841460310016?ref_src=twsrc%5Etfw">14 August 2019</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Congrats to the <a href="https://twitter.com/hashtag/Barbers4Health?src=hash&amp;ref_src=twsrc%5Etfw">#Barbers4Health</a> team with Jacqueline Sin, Mariana Pinto da Costa, Hugh Hathaway and Jan Smeddinck who won the best project <a href="https://twitter.com/hashtag/DIMH2019?src=hash&amp;ref_src=twsrc%5Etfw">#DIMH2019</a> focusing on the mental health needs in LMIC. Well done to all teams! <a href="https://t.co/6lRUZgGsaH">pic.twitter.com/6lRUZgGsaH</a></p>&mdash; Social Psychiatry (@QMULSocialPsych) <a href="https://twitter.com/QMULSocialPsych/status/1161704841460310016?ref_src=twsrc%5Etfw">August 14, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Rumour has it that Hugh is an A grade barber now.
 
 ## UCL visit
