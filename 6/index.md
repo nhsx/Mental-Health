@@ -44,7 +44,7 @@ Following voting, the top 3 we identified were:
 The rest:
 - Quality of data
 - How the parents/whole families are supported
-- All the different ways CYPMHS is managed locally
+- All the different ways CYPMHS are managed locally
 - Awareness of mental health services
 - Lots of work in school-based interventions
 - What happens after treatment
