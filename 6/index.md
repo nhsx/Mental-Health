@@ -44,7 +44,7 @@ Following voting, the top 3 we identified were:
 The rest:
 - Quality of data
 - How the parents/whole families are supported
-- All the different ways CAMHS is managed locally
+- All the different ways CYPMHS is managed locally
 - Awareness of mental health services
 - Lots of work in school-based interventions
 - What happens after treatment
@@ -66,9 +66,9 @@ Was fun, we have been talking about the importance of [exposing new ways of work
 ## Updates trying to find participants
 This week we agreed our research goals for discovery and a rough plan of who we will need to involve and when.
 
-We’ve been working closely with Subject Matter Experts in our team to reach out to CAMHS services to take part. We are targeting regions with the highest and lowest waiting times and trying to learn more about initiatives that have been introduced locally to prepare children and young people. We’ve engaged with Young Minds, The Children’s Sleep Charity and Children and Young People’s Mental Health Coalition this week, to tell them about our work and help to reach out to parent and young person’s networks.
+We’ve been working closely with Subject Matter Experts in our team to reach out to CYPMHS services to take part. We are targeting regions with the highest and lowest waiting times and trying to learn more about initiatives that have been introduced locally to prepare children and young people. We’ve engaged with Young Minds, The Children’s Sleep Charity and Children and Young People’s Mental Health Coalition this week, to tell them about our work and help to reach out to parent and young person’s networks.
 
-In Round 1 we’ll be doing a series of site visits to CAMHS locations and interviews with healthcare professionals to understand the context of how the service is delivered. If you can help, please get in touch at <digitalresearch@nhsx.nhs.uk>
+In Round 1 we’ll be doing a series of site visits to CYPMHS locations and interviews with healthcare professionals to understand the context of how the service is delivered. If you can help, please get in touch at <digitalresearch@nhsx.nhs.uk>
  
 ## Award winning
 Congrats to Hugh who won an award this week.
