@@ -6,6 +6,7 @@ This is an informal update to [NHSX’s commitment](https://www.gov.uk/governmen
 This is a selection of things that happened (other things also happened) from team members working on a discovery into children, young people and mental health...
 
 ## Team general orders
+![Team members drew themselves at inception day and this displays post-its with drawings of Sophie, Colin, Alex, Isaac, Hugh & Nick but missing James](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/Drawn%20team%20members.JPG)
 As part of the inception day, we came up with a list of general orders. General orders are a bunch of rules and standards we all agreed to as team.
  
 1. Be open and honest
