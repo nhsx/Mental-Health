@@ -23,7 +23,7 @@ There were a number of factors that played into why we believe this is important
 - Referrals to child mental health units have been [on the rise for the past 3 years](https://www.bbc.co.uk/news/uk-48935631).
 - [CQC reported](https://www.cqc.org.uk/publications/major-report/review-children-young-peoples-mental-health-services-phase-one-report) that the “system as a whole is complex and fragmented. Mental health care is funded, commissioned and provided by many different organisations that do not always work together in a joined-up way. As a result, too many children and young people have a poor experience of care and some are unable to access timely and appropriate support.”
 - Waiting times appear to be variable but in some cases can be multiple months long
-- It has been reported that [a child’s mental health may deteriorate while waiting for support from CAMHS](https://youngminds.org.uk/about-us/media-centre/press-releases/three-quarters-of-young-people-seeking-mental-health-support-become-more-unwell-during-wait-for-treatment/)
+- It has been reported that [a child’s mental health may deteriorate while waiting for support from CYPMHS](https://youngminds.org.uk/about-us/media-centre/press-releases/three-quarters-of-young-people-seeking-mental-health-support-become-more-unwell-during-wait-for-treatment/)
 - High waiting times are associated with high Do Not Attend rates/Was not brought rates which are costly to the NHS and don’t help people be seen quicker.
 
 In one report a patient awaiting care said;
