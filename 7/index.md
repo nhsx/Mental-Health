@@ -44,7 +44,7 @@ Reflections from the team:
 - we suggested they add to [design patterns for mental health](https://www.designpatternsformentalhealth.org/) 
 
 ## Demonstrating progress
-We had our first [show and tell](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques#team-review-show-and-tell) with children and young people team. 
+We had our first [show and tell](https://www.gov.uk/service-manual/agile-delivery/agile-tools-techniques#team-review-show-and-tell) with the children and young people team. 
 
 We agreed at our inception day to piggyback on existing team meetings so secured an early slot and barreled through what’s been happening so far. We had a question or two and they very kindly helped to connect us to people that will help future research.
 
@@ -73,7 +73,7 @@ Our researcher has had initial phone calls with parents who passed the screener 
 
 At the end of this week, we received the list of regional leads for CYPMHS across England and have contacted them to get involved.
 
-It’s been a lot trickier than we expected to arrange site visits to CYPMHS, as many people are away on holiday. This means we are a little bit behind at the moment but hopefully we can make this time up later in the discovery. We’re still looking for CYPMHS staff and services to visit, please get in touch at digitalresearch@nhsx.nhs.uk if you can help.
+It’s been a lot trickier than we expected to arrange site visits to CYPMHS, as many people are away on holiday. This means we are a little bit behind at the moment but hopefully we can make this time up later in the discovery. We’re still looking for CYPMHS staff and services to visit, please get in touch at <digitalresearch@nhsx.nhs.uk> if you can help.
 
 Thank you to everyone who has helped so far.
 
