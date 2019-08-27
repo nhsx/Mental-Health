@@ -65,6 +65,7 @@ As the first sprint came to an end we got back together to plan for sprint 2. Pr
 3. Continue reading existing research and reviewing existing services
 
 ## Finding participants
+![Poster made for recruiting participants](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/CYP-Discovery_PARENTS%20(2).jpg)
 This week we reached out via charity networks for parents to take part in Round 2 research: home visits and interviews. 
 
 We’ve had a good response so far. Information sheets and screening questions have been shared with participants who expressed an interest. This is to make sure they meet the criteria to take part and we include representative demographics and experiences. 
