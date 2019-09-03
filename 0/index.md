@@ -2,7 +2,7 @@
 
 After prioritising work it has been agreed to work on the following;
 
-> What are the opportunities to support children and young people in preparation for their first or subsequent contact from a NHS funded mental health service? 
+> What are the opportunities to support children and young people in preparation for their first or subsequent contact from a children and young person's mental health service? 
 
 We will explore this opportunity by conducting [a discovery phase](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works). We have a multidisciplinary team which includes CYP mental health subject matter expertise and clinical expertise.
 
