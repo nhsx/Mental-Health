@@ -72,7 +72,7 @@ Thankfully we have NHS.UK to help us here and could re-use a fair bit from [thei
 A quick but interesting chat was had with two people currently working with trusts to improve communication to patients and make booking easier.
 
 Some reflections:
-- could potentially make things better by more efficiently recording people’s contact details (or sharing the contact details we have) with each other around healthcare. This can have a number of not great consequences in trying to keep people up to date
+- could potentially make things better by more efficiently recording people’s contact details (or sharing the contact details we have with other health colleagues involved with a patient's care)
 - could potentially make things better with more [content design](https://www.gov.uk/guidance/content-design/what-is-content-design) 
 - how easy is it to state a preference for a preferred contact channel or to which guardian (especially for under 16’s)?
 
