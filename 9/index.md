@@ -49,7 +49,8 @@ To learn about other research and efforts in the CYP mental health/wellbeing spa
 Illuminating chat. For example, we heard more about communities/peer-support on social media such as groups like [Parenting Mental Health](https://parentingmentalhealth.com/). Their site also has [many stories of individuals experience](https://parentingmentalhealth.com/community-stories/) of being a parent/guardian of someone experiencing mental health issues.
 
 ## Idea to scrape reviews from web
-We have invested a small amount of time into collecting reviews of CYPMHS clinics on NHS.uk to supplement our user research, to see if we can identify any themes across different sites. While only a limited number of reviews are available we are hoping that the available data will help to validate our research findings. While we didn’t get the volume of data we were hoping for this work has provided us with another research tool for future projects.    
+We have invested a small amount of time into collecting reviews of CYPMHS clinics on NHS.UK to supplement our user research, to see if we can identify any themes across different sites. 
+While only a limited number of reviews are available, and we are aware of bias, we are hoping we might get something interesting out of the exercise. Even if we don’t get the volume of data we were hoping for this work can provide us with another research tool for future projects.    
 
 ## Find out more
 If you want to stay informed about wider NHSX work then [check out @NHSX on Twitter](https://twitter.com/nhsx?lang=en).
