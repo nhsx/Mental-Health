@@ -1,4 +1,5 @@
 # NHSX mental health team updates
+* [Update 9](9): User research visits
 * [Update 8](8): First user research participant
 * [Update 7](7): End of our first sprint
 * [Update 6](6): First full week of the discovery
