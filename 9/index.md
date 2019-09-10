@@ -17,7 +17,7 @@ It was an extremely useful trip for furthering our knowledge, we really apprecia
 ## Waiting time pilots
 There are wider efforts with NHS England to address waiting times. [12 pilots have begun around the country](https://www.england.nhs.uk/mental-health/cyp/trailblazers/mh-support-teams/) and 2 fantastic colleagues walked us through the progress so far.
 
-It is interesting to see how our team fits in a broader ambition to improve things and we managed to get some invites which should put us in the same room as those working on the pilots. We also got some 
+It is interesting to see how our team fits in a broader ambition to improve things and we managed to get some invites which should put us in the same room as those working on the pilots. 
 
 ## User research with Wirral CAMHS
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Out in the Wirral today with incredibly kind CAMHS staff learning about how they are supporting young people and parents whilst they wait. <a href="https://twitter.com/hashtag/cypmhs?src=hash&amp;ref_src=twsrc%5Etfw">#cypmhs</a> <a href="https://twitter.com/NHSX?ref_src=twsrc%5Etfw">@nhsx</a> <a href="https://twitter.com/ColinPattinson?ref_src=twsrc%5Etfw">@ColinPattinson</a> 📝☎️📚 <a href="https://t.co/kLbp2WDawp">pic.twitter.com/kLbp2WDawp</a></p>&mdash; Sophie Rankin (@SophieAnnRankin) <a href="https://twitter.com/SophieAnnRankin/status/1169663382653472768?ref_src=twsrc%5Etfw">September 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
