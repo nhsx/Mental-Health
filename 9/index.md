@@ -10,10 +10,7 @@ This is a selection of things that happened (other things also happened) from te
 
 Two of the team took a trip to Poole and Bournemouth to conduct [user research](https://www.gov.uk/service-manual/user-research). We visited two different sites dedicated to children and young people's mental health services (CYPMHS) and spoke with clinical and managerial staff about their experiences and how the service works.
 
-This was [the discovery’s](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) first user research sessions with front line staff. We learned in Dorset that:
-- they have a 4 or 8 week waiting time target (depending on the severity of the mental health issue) from referral to first appointment
-- clinicians will call CYPs every 4 weeks and check in during the waiting period
-- some of their biggest challenges are staffing issues and venues for care
+This was [the discovery’s](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works) first user research sessions with front line staff. 
 
 It was an extremely useful trip for furthering our knowledge, we really appreciated that people took the time out from their busy jobs to talk to us.
 
