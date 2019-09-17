@@ -35,6 +35,7 @@ All include:
 - a feelings wheel
 - blank paper
 - ... and the map itself. 
+
 Participants will complete and return to us in a pre-paid envelope and by taking photographs.
 
 We’re going to be following this up with remote video calls with young people, using the map as stimulus.
