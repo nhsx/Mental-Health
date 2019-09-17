@@ -25,7 +25,16 @@ The team managed to send out the experience mapping tasks to children and young 
 Our clinician team member gave us some great tips on eliciting emotions and feelings of younger children (e.g. under 11). This led to a cartoon storyboard and prompts for each box, whereas for older children we have left the task more open-ended. 
 
 We’ve created 2 versions; one for children aged 8-11 and another for 12-25 years old.
-All include an instructions leaflet, 2-3 pens, emotions word bank, blue tack, emoji stickers, question cards, a feelings wheel, blank paper and the map itself. 
+All include: 
+- an instructions leaflet
+- 2-3 pens
+- emotions word bank
+- blue tack
+- emoji stickers
+- question cards
+- a feelings wheel
+- blank paper
+- ... and the map itself. 
 Participants will complete and return to us in a pre-paid envelope and by taking photographs.
 
 We’re going to be following this up with remote video calls with young people, using the map as stimulus.
@@ -42,9 +51,9 @@ As with any discovery project, the team has limited capacity to conduct site vis
 
 In order to try and cope with input that still may fly in as we are already out in the field or doing research with a participant we’ve created a few surveys for others to contribute. We adore hearing about people’s experiences and want to make sure those who want to contribute have an avenue to do so. 
 
-If you’d like to take part as a parent, follow this link: https://www.smartsurvey.co.uk/s/parent-survey
+If you’d like to take part as a parent, follow this link: <https://www.smartsurvey.co.uk/s/parent-survey>
 
-If you’d like to take part as CAMHS staff, you can do here: https://www.smartsurvey.co.uk/s/CAMHS-staff/ 
+If you’d like to take part as CAMHS staff, you can do here: <https://www.smartsurvey.co.uk/s/CAMHS-staff/> 
 
 ## Remote research with parents
 Thank you to all the parents who have taken part in the research sessions this week. It’s been really harrowing listening to parent’s experiences whilst waiting for their child’s support from CAMHS/CYPMHS. We really appreciate people taking the time to help make the service better for others and although everyone’s experience is different, some key themes are starting to emerge.
