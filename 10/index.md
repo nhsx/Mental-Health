@@ -50,7 +50,7 @@ We also realised mid-packing that 2 participants were from Scotland so had to be
 ## Surveys
 As with any discovery project, the team has limited capacity to conduct site visits and interviews with everyone. Although we prefer contextual research as much as possible, it’s still really valuable we hear from those we aren’t able to attend.
 
-In order to try and cope with input that still may fly in as we are already out in the field or doing research with a participant we’ve created a few surveys for others to contribute. We adore hearing about people’s experiences and want to make sure those who want to contribute have an avenue to do so. 
+In order to try and cope with input that still may fly in as we are already out in the field or doing research with a participant we’ve created a few surveys for others to contribute. It's essential to hear people’s experiences in order to make things better. We want to make sure there is an avenue to do so. 
 
 If you’d like to take part as a parent, follow this link: <https://www.smartsurvey.co.uk/s/parent-survey>
 
