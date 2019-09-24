@@ -5,7 +5,8 @@ This is an informal update to [NHSX’s commitment](https://www.gov.uk/governmen
 
 This is a selection of things that happened (other things also happened) from team members working on [a discovery into children, young people and mental health](https://nhsx.github.io/Mental-Health/0/)...
 
-## Sussex CAMHS trip
+![An image of a bright waiting room for a child and young person's mental health service](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/CAMHS.jpg)
+## Sussex CAMHS/CYPMHS trip
 On Monday we visited a children and young person's mental health service in Sussex. This was an excellent opportunity to meet with the people running the service and understand their challenges. We were able to speak to the Team Manager a Clinical Psychologist, the Administration Team and a member of Single Point of Access team. 
 
 This team is split over two sites and we learnt about some of the challenges that come with covering such a large area as well as issues that are common across all CYPMHS teams. Always extremely valuable for our learning and we are grateful for everyone who took the time to speak with us. 
@@ -33,7 +34,8 @@ We appreciate it mustn't have been easy for parents to share their experiences w
 
 We are sure there is more that could be done to protect participants and ourselves… we’d be interested if anyone has any tips about researching with sensitive topics like this one for the future, we’d really like to hear from you.
 
-## Parent analysis 
+## Parent analysis
+![The team working together grouping post it notes on a window](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/Themes.jpg)
 On Friday, the whole team took part in analysis for parent interviews. Each note taker in the team managed to keep organised notes from the individual sessions they had attended, so brought these along.
 
 ### What we did
