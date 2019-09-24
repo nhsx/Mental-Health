@@ -50,9 +50,9 @@ This was our first analysis session as a team, it helped with us all being on th
 
 ### What we found
 Some takeaways:
-The lack of communication and silence from CAMHS whilst waiting feels impersonal and many parents feel like they are just a number in the system
-Waiting has a negative impact on the whole family, causing parents to feel lost, helpless, frustrated and ‘in limbo’ 
-There’s not enough signposting or support available for parents. Information feels generic and they need someone to listen to and reassure them. 
+- The lack of communication and silence from CAMHS whilst waiting feels impersonal and many parents feel like they are just a number in the system
+- Waiting has a negative impact on the whole family, causing parents to feel lost, helpless, frustrated and ‘in limbo’ 
+- There’s not enough signposting or support available for parents. Information feels generic and they need someone to listen to and reassure them. 
 
 ### Want to contribute?
 We’re still collecting feedback in the survey up until the end of discovery. If you’re a parent of a child seeking support from CAMHS [we’d like to hear from you](https://www.smartsurvey.co.uk/s/parent-survey). 
