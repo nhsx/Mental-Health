@@ -38,7 +38,7 @@ We then shared our reflections from what we had reviewed. Being endlessly constr
 - we could set expectations better
 - we could use less jargon and write more in plain English.
 
-## CAMHS analysis
+## CYPMHS/CAMHS analysis
 ![Two team members in a room with post it notes on windows and screens](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/Synthesis.jpg)
 
 The team got together to analyse our findings from the CAMHS locations we visited. We looked at interviews with team managers, clinicians as well as survey data.
