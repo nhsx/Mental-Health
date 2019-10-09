@@ -6,10 +6,11 @@ This is an informal update to [NHSX’s commitment](https://www.gov.uk/governmen
 This is a selection of things that happened (other things also happened) from team members working on [a discovery into children, young people and mental health](https://nhsx.github.io/Mental-Health/0/)...
 
 ## Children and young people’s research analysis session
-![2 team members are listening and thinking about research with children and young people with lots of sheets of paper in front of them](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/research%20analysis.JPG)
 The team got together to analyse the outputs from our Children and young people’s research. We had originally planned 12 participants, but 2 were excluded because they were out of scope. The team received 6 out of 10 experience mapping packs returned in the post and there were 3 out of 6 follow up interviews with young people. 
 
 We laid out the completed maps and took notes on post-its, we also brought our notes from interviews and stuck these up on the wall next to the research questions.
+
+![2 team members are listening and thinking about research with children and young people with lots of sheets of paper in front of them](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/research%20analysis.JPG)
 
 ### What we found
 - Once in CAMHS/CYPMHS, young people felt the experience was positive and it helped them
@@ -46,7 +47,7 @@ We voted on 4 areas then reworked them into [How Might We statements](http://www
 
 The purpose of Design Day was to get together to start coming up with ideas around our How Might We statements. Our team have been locked in a room for a few days at that point and were fully immersed in understanding the problem space and our users. 
 
-Using a technique called [crazy 8’s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-eights) [a suggestion from a team member was to ditch the name _crazy_ 8’s given its negative connotations and replace with something a bit more welcoming - not a terrible idea!] we sketched out 8 quick ideas in 8 minutes for each of our How Might We statements.
+Using a technique called [crazy 8’s](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-eights) [a suggestion from a team member was to ditch the name _crazy_ 8’s given its negative connotations and replace with something a bit more welcoming - worth considering!] we sketched out 8 quick ideas in 8 minutes for each of our How Might We statements.
 
 From these 8 ideas we spent considerable time sharing and refining ideas in pairs or collectively as a team. This required acknowledging overlap and weaving individual smart ideas together to coherent propositions.
 
