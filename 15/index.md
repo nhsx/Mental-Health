@@ -27,7 +27,7 @@ This is our first weekly update for this phase of the project.
 
 Our team got together to agree scope and objectives for this piece of work as the central NHSX team. Some of the things we discussed were:
 
-Alpha problem statement: “[How Might We] (https://www.designkit.org/methods/3) embed user-centred design methods into local teams and help them to test ideas that support Children and Young People waiting to access mental health services?”
+Alpha problem statement: “[How Might We](https://www.designkit.org/methods/3) embed user-centred design methods into local teams and help them to test ideas that support Children and Young People waiting to access mental health services?”
 
 Our aims:
 - Make sustainable change by exposing new ways of working to build better services
