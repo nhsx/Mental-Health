@@ -13,7 +13,7 @@ We have split our alpha phase into:
 
 Stream 1: Co-locate digital specialists in local teams to shape the end-to-end pathway and test parts of the service based on findings from discovery
 
-Stream 2: Provide funding to take existing projects into next stage of maturity
+Stream 2: Provide funding to take existing projects into the next stage of maturity
 
 Thank you to everyone who applied. Individual trusts were selected based on an initial EOI application, shortlisting and interviews with the teams. 
 
@@ -33,7 +33,7 @@ Our aims:
 - Make sustainable change by exposing new ways of working to build better services
 - Empower staff to use some tools, approaches and ideas beyond our involvement
 - Provide scalable solutions to any common problems for digital service delivery
-(This could include standardised user research findings, service design patterns, benefits cases, cod repositories etc.)
+(This could include standardised user research findings, service design patterns, benefits cases, code repositories etc.)
 
 ![Whiteboard with coloured post-it notes of what the team wants to learn ](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/wn2.JPG)
 
@@ -50,8 +50,9 @@ Our aims:
 
 To do that, we need to understand:
 - How are trusts currently delivering improvements to their service? 
-- Where are the problems? 
-- Who is the right team to implement service change/improvement?- What is the governance structure and decision making process?
+- Where are the opportunities to support?
+- Who is the right team to implement service change/improvement?
+- What is the governance structure and decision making process?
 - What are the needs of the trusts we work with including motivations and barriers to implementing user-centred design?
 - Which ideas best support children and young people whilst they are waiting to access mental health services?
 
