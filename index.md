@@ -1,4 +1,8 @@
 # NHSX mental health team updates
+## Alpha phase
+* [Updated 15](15): Alpha phase inception
+
+## Discovery phase
 * [Update 14](14): Post-discovery hiatus 
 * [Update 13](13): End of 8 weeks of discovery
 * [Update 12](12): Content crit and CYPMHS/CAMHS analysis
