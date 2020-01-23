@@ -3,7 +3,7 @@
 This is an informal update to [NHSX’s commitment](https://www.gov.uk/government/news/nhsx-digital-experts-will-be-part-of-cancer-and-mental-health-teams) to:
 > Digital and data specialists from NHSX will team up with NHS England’s mental health national policy teams to help clinicians and policymakers improve patient experience through technology.
 
-This is a selection of things that happened (other things also happened) from team members working on [a discovery into children, young people and mental health](https://nhsx.github.io/Mental-Health/0/)...
+This is a selection of things that happened (other things also happened) this week...
 
 ## Context
 
