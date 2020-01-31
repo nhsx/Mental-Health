@@ -1,5 +1,6 @@
 # NHSX mental health team updates
 ## Alpha phase
+* [Update 16](16): Workshops with partners
 * [Update 15](15): Alpha phase inception
 
 ## Discovery phase
