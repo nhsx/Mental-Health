@@ -1,6 +1,6 @@
 # NHSX mental health team updates
 ## Alpha phase
-* [Updated 15](15): Alpha phase inception
+* [Update 15](15): Alpha phase inception
 
 ## Discovery phase
 * [Update 14](14): Post-discovery hiatus 
