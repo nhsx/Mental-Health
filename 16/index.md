@@ -38,7 +38,7 @@ We held the Surrey and Borders Workshop on Wednesday. This was from our London o
 This helped us go from things like ‘self-referral portal’ to ‘an easy way to access the service’.
 
 ## Follow up calls
-We held follow up calls with all 3 Stream 1 sites after the workshop to discuss the design brief and narrow down scope and team. This includes things like our objectives, risks and proposed activities.
+We held follow up calls with all Stream 1 sites after the workshop to discuss the design brief and narrow down scope and team. This includes things like our objectives, risks and proposed activities.
 
 ## Stream 2 Initial Call
 This week we held a call with Stream 2 sites. These are:
