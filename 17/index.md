@@ -12,30 +12,23 @@ NHSX and NHS England recently completed a discovery on Children and Young People
 This is split into Stream 1 (embedded team) and Stream 2 (funding existing products). NHSX are taking a strategic view, sharing learning and understanding needs of trusts so that we can develop a model that can be scaled. We are informally calling this Stream 3.
 
 ## First day in Surrey
+![The team in Surrey mapping out the service](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/Surrey%20peeps.jpg)
 
 On Wednesday, Nicky went to kick off the work in Surrey and Borders Partnership, joined by two new members, Umut (product manager) and Ross (user researcher). The trust’s Digital team and the NHSX gang had a productive day mapping out the current service provided to see where opportunities were. We were joined in the morning by a member of their digital supplier to understand how we could improve digital services and UCD capability while continuing with the momentum of delivery. On Thursday, Umut led a session to create and prioritise a backlog for the trust so we could figure out what work will be delivered by March, and later. We found it to be a really productive week and looking forward to continuing delivering at pace!
-
-
-
-
 
 ## Meeting with FutureGov
 
 We met with the team at FutureGov to get them up to speed on the work and share our hopes and fears. We’ve got the team starting in the trusts next week to meet the teams at Alder Hey and Oxleas to kick-off.
 
-
 ## Update from Oxleas
 Ahead of FutureGov starting to support them next week, Oxleas have begun mapping out their service. They have put this up on a board for all staff to comment on, using pink post-its to identify user pain points and yellow ones for potential opportunities. They have also begun collecting feedback on how staff feel about the project in general: what they are excited about, what they are confused about and any concerns. 
 
 
-![Mapping out the service in Oxleas ](insert link)
+![Mapping out the service in Oxleas ](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/Oxleas.png)
 
 
 ## Day in Alder Hey
-
-
-
-![Team photo mapping out the service with Alder Hey in Liverpool ](insert link)
+![Team photo mapping out the service with Alder Hey in Liverpool ](https://raw.githubusercontent.com/nhsx/Mental-Health/master/images/alderhey.jpg)
 
 We spent the day in Alder Hey problem framing some of their deliverables and mapping out the service. This involved looking at where each deliverable had come from and seeing where these opportunities fitted into the overall journey. 
 
@@ -43,15 +36,9 @@ We replaced the word digital to say things like ‘knowing where I am in the jou
 
 Our user researcher went through the importance of getting the right people to take part and we agreed on an approach to start lining people up for a research session.
 
-
 ## Our team planning and retro
 
 As it was the end of our sprint we had a team retro - fab and chatty as always! There was a lot to celebrate, such as the onboarding of new team members and Futuregov. As part of our retro we did an activity looking at our individual responsibilities looking at what we do at the moment versus what we need/want to do on the project. We discussed how we could make our ‘wants’ happen - made us feel super empowered to try things out. We then prioritised as a team and measured how small/big our tasks were!
-
-
-
-
-
 
 ## User research planning and recruitment
 
