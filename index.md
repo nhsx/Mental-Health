@@ -1,5 +1,6 @@
 # NHSX mental health team updates
 ## Alpha phase
+* [Update 18](18): First week in trusts
 * [Update 17](17): Onboarding new team members in trusts
 * [Update 16](16): Workshops with partners
 * [Update 15](15): Alpha phase inception
