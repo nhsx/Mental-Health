@@ -77,13 +77,13 @@ At the end of the round, we got together with transcripts to analyse in a shared
 Our NHSX team working on Stream 1 embedded teams got together to share our learnings so far, as part of Stream 3 on how we scale this approach.
 
 What we did
-Recap on the problem statement and our aims
-Stuck the main research goals on the wall 
-Swapped transcripts, highlighted and took notes from each transcript 
-Stuck them on the wall and grouped them
-Discussed and wrote up key insights
-Captured our observations so far (on working with trusts and scaling this approach)
-Completed a first draft of a capability maturity model (site A, site B and site C)
+-Recap on the problem statement and our aims
+-Stuck the main research goals on the wall 
+-Swapped transcripts, highlighted and took notes from each transcript 
+-Stuck them on the wall and grouped them
+-Discussed and wrote up key insights
+-Captured our observations so far (on working with trusts and scaling this approach)
+-Completed a first draft of a capability maturity model (site A, site B and site C)
 
 This took a lot of time and was quite intense. For the next shared learning session, the user researchers are going to spend a bit of time prepping notes ready for the team to start grouping and theming! 
 
