@@ -17,42 +17,38 @@ This is split into Stream 1 (embedded team) and Stream 2 (funding existing produ
 ## Surrey
 On 10th and 12th March we had two “CYP hybrid workshops and co-design” activities. We also iterated our “CYP journey maps” and prototypes accordingly.  
 
+![Photograph of the insights from children and young people’s workshop](https://github.com/nhsx/Mental-Health/blob/master/images/surry%2022.png?raw=true)
 
-
-![Photograph of the insights from children and young people’s workshop](insert link)
-
-
-
-![Annotated prototype screens with notes from children and young people in the workshop](insert link)
+![Annotated prototype screens with notes from children and young people in the workshop](https://github.com/nhsx/Mental-Health/blob/master/images/surrey%2022.png?raw=true)
 
 ## Oxleas
 Our prototype has been designed and is ready for testing. We are using the Marvel app to give a real sense of what the automated text chat idea might look like. This will now be tested with participants. 
 
-
-![Example screenshot of the chatbot idea being tested with children and young people ](insert link)
+![Example screenshot of the chatbot idea being tested with children and young people ](https://github.com/nhsx/Mental-Health/blob/master/images/Oxleas%2022.png?raw=true)
 
 Given the COVID-19 we will be conducting user research remotely. A key challenge around this is recruiting participants to take part. Currently we are working with clinicians at Oxleas, who are still in contact with patients, and who can help recruit people to test the prototype. 
 
 ## Alder Hey
+
 On Monday morning the team tested the single point of entry with parents. We wanted to find out what information was important to people when looking for support for their child, where they go for this and how easy it is to find. This was done with a card sorting exercise. Participants also started on Google to see what search terms they would use and where this would take them, evaluating the current content on existing sites.
 
-![Card sorting exercise. This is a photograph of cards of information sorted into piles of ‘not important’ ‘important’ and ‘really important’. Some of the information on the cards includes things like ‘ways I can help my child’, ‘where can I go for help’ and ‘stories from other parents’. ](insert link)
+![Card sorting exercise. This is a photograph of cards of information sorted into piles of ‘not important’ ‘important’ and ‘really important’. Some of the information on the cards includes things like ‘ways I can help my child’, ‘where can I go for help’ and ‘stories from other parents’.](https://github.com/nhsx/Mental-Health/blob/master/images/alderhey%2022.jpg?raw=true)
 
 
-![Photograph of parent entering search terms to browse on Google](insert link)
+![Photograph of parent entering search terms to browse on Google](https://github.com/nhsx/Mental-Health/blob/master/images/alderhey%2022%20(2).jpg?raw=true)
 
 The team presented their first Show and Tell to the wider stakeholders across Alder Hey and the CCG. This went really well and it was great to share progress on the insights, hypotheses and prototypes that were being tested. This has all been stuck on the wall in the project space, which really helped for taking stakeholders through what the team had been up to. We’re planning a remote Show and Tell on Tues 31st March to present the final work.
 
-![Photograph of team member pointing to the project wall, with post-its, service maps, insights and prototype testing stuck on there. ](insert link)
+![Photograph of team member pointing to the project wall, with post-its, service maps, insights and prototype testing stuck on there. ](https://github.com/nhsx/Mental-Health/blob/master/images/alderhey%2022(3).jpg?raw=true)
 
 
-![Photograph of a team member presenting at the Show and Tell with the audience watching. ](insert link)
+![Photograph of a team member presenting at the Show and Tell with the audience watching. ](https://github.com/nhsx/Mental-Health/blob/master/images/alderhey%2022%20(4).jpg?raw=true)
 
 ## Stream 2 workshop
 
 The central NHSX team held a workshop with all the successful Stream 2 sites. These are the trusts who received funding to take their product or idea into the next phase of maturity, with light touch support from the NHSX team in line with best practice.
 
-![Photograph of team member presenting](insert link)
+![Photograph of team member presenting and attendees listening](https://github.com/nhsx/Mental-Health/blob/master/images/workshop.jpg?raw=true)
 
 The aim of the workshop was to:
 
@@ -64,7 +60,7 @@ The aim of the workshop was to:
 
 It went really well and we had great feedback from those who attended. We have set up a shared  [Slack Channel](https://join.slack.com/t/cypmentalhealthtrusts/shared_invite/zt-cn9rp7eb-pyRii_teH6PE5WXkuzXaGg) for all trusts working on Children and Young People’s Mental Health services to collaborate. Please feel free to join this if you are currently delivering an NHS mental health service for children and young people. 
 
-Here are [our slides](https://docs.google.com/presentation/d/1dH4jKU_3FIa6unZnLhy2SM894Useo9dEji5vqAXFDpA/edit#slide=id.g7f07a3b0fc_1_288) from the day too.
+Here are [our slides](https://docs.google.com/presentation/d/1dH4jKU_3FIa6unZnLhy2SM894Useo9dEji5vqAXFDpA/edit#slide=id.g7f07a3b0fc_1_288)from the day too.
 
 
 ## Stream 3 update
