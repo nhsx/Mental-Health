@@ -1,6 +1,6 @@
 # NHSX mental health team updates
 ## Alpha phase
-* [Update 22](22): Stream 2 Workshop and more
+* [Update 22](22): Stream 2 workshop and more
 * [Update 21](21): A week of sharing, learning and more testing
 * [Update 20](20): A week of research, testing and thinking
 * [Update 19](19): Update of work going on in trusts and our first round of research 
