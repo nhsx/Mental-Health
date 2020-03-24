@@ -18,8 +18,6 @@ This is split into Stream 1 (embedded team) and Stream 2 (funding existing produ
 This week we ran through the service journey again, running through each users’ experience: staff, children and young people and parents, families and carers. Following this we selected some key hypotheses that we were going to test going forward by adding post its with questions, ideas and challenges for each hypothesis.
 
 
-
-
 ![Photo of team selecting hypothesisl](https://github.com/nhsx/Mental-Health/blob/master/images/oxleas%201.png?raw=true)
 
 Next week we will carry out some guerrilla testing in the waiting room to test whether our hypotheses resonate with users. This will feed into an ‘ideation’ session from FutureGov where we will begin discussing ideas and sketch some prototypes.
@@ -28,7 +26,7 @@ Next week we will carry out some guerrilla testing in the waiting room to test w
 We started to visualise our work on the wall so that members of the wider team can see what we’ve been up to. This really helps the core team to have a shared understanding and to reflect on the previous research insights that led to this work -  with quotes from parents, staff and young people.
 
 
-![Photo of team sticking insights on the wall](https://github.com/nhsx/Mental-Health/blob/master/images/alderhey%201.jpg?raw=true)
+![Photo of team sticking insights on the wall](https://github.com/nhsx/Mental-Health/blob/master/images/alderhey%2019.jpg?raw=true)
 
 It also helps to see where we are up to in the design process. 
 
@@ -45,8 +43,10 @@ It was the end of our third sprint - a lot of good work happening across all NHS
 ## Surrey
 In Surrey we completed our first sprint on Wednesday! 🎉We had our first sprint review and retro.
 We have really gotten into the swing of our sprints and ceremonies. We are learning a lot from the trust and sharing our own knowledge and experience of user centred design and agile.
+
 We have started a lot of artefacts and we are putting everything on the wall to work in the open so other teams can see what we are up to.
 
+![Photo of team artefacts on a board](https://github.com/nhsx/Mental-Health/blob/master/images/surrey%2019.jpg?raw=true)
 
 ## Stream 2 update
 We’ve planned 1:1 check-ins with all sites from Stream 2. This is a chance to find out where they’re up to with delivery, what activities they are doing and the team in place delivering them.
@@ -77,13 +77,13 @@ At the end of the round, we got together with transcripts to analyse in a shared
 Our NHSX team working on Stream 1 embedded teams got together to share our learnings so far, as part of Stream 3 on how we scale this approach.
 
 What we did
--Recap on the problem statement and our aims
--Stuck the main research goals on the wall 
--Swapped transcripts, highlighted and took notes from each transcript 
--Stuck them on the wall and grouped them
--Discussed and wrote up key insights
--Captured our observations so far (on working with trusts and scaling this approach)
--Completed a first draft of a capability maturity model (site A, site B and site C)
+- Recap on the problem statement and our aims
+- Stuck the main research goals on the wall 
+- Swapped transcripts, highlighted and took notes from each transcript 
+- Stuck them on the wall and grouped them
+- Discussed and wrote up key insights
+- Captured our observations so far (on working with trusts and scaling this approach)
+- Completed a first draft of a capability maturity model (site A, site B and site C)
 
 This took a lot of time and was quite intense. For the next shared learning session, the user researchers are going to spend a bit of time prepping notes ready for the team to start grouping and theming! 
 
